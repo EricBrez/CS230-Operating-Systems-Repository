@@ -1,1 +1,17 @@
+-Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
+The client, The Gaming Room is a software development company that set out to develop a game loosely based on a 1980s television game where teams compete to guess a drawing in a limited time frame. The Drawing room sought to adapt this game to a server-based system that could work on multiple client platforms including PCs, laptops, mobile devices, and gaming consoles.
 
+-What did you do particularly well in developing this documentation?
+I believe my analysis of Mac, Linux, Windows, and mobile platforms for the server-side requirements, the client-side requirements, and the developmental tool requirements was my best contribution to this work. I felt that while analyzing the various components, specifically for the developmental tools got a tad repetitive, however, my analysis revealed a couple of options for languages and IDEs that work well for every platform.
+
+-What about the process of working through a design document did you find helpful when developing the code?
+I believe that looking at the system requirements in the evaluation assisted by showing me the best methods and uses for development.
+
+-If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+I would go back and revise the executive summary, specifically the design constraints, I believe that a deeper look could have been taken to consider the constraints in more detail.
+
+-How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
+At its most basic, it is important to consider the user's needs in the software design because they're the ones who will be paying for and using the product, keeping them happy and using is the best way to continue to keep the software viable as well as maintaining or improving on the company's reputation.
+
+-How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
+I tried to approach the design from a technical aspect. I focused on the software and hardware needs to be able to accomplish the task.
